@@ -3,7 +3,9 @@ RENCANA KONTEN ILHAM
 -JAVASCRIPT
   *ES6
   *FRAMEWORK JAVASCRIPT
-  - Struktur Data Dasar
+  ^Angular
+  ^React
 -PHP FRAMEWORKS
+ ^Laravel
 -INTERVIEW
 -VLOG
