@@ -4,6 +4,7 @@ RENCANA KONTEN ILHAM
   *ES6
   *FRAMEWORK JAVASCRIPT
     ^Vue
+    ^React
   - Struktur Data Dasar
 -PHP FRAMEWORKS
 ^Laravel
